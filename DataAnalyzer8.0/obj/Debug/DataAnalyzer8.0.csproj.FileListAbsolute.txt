@@ -1,0 +1,11 @@
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\bin\Debug\DataAnalyzer8.0.exe.config
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\bin\Debug\DataAnalyzer8.0.exe
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\bin\Debug\DataAnalyzer8.0.pdb
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8.0.csprojAssemblyReference.cache
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8._0.DataForm.resources
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8._0.Properties.Resources.resources
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8.0.csproj.GenerateResource.cache
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8.0.csproj.CoreCompileInputs.cache
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8.0.exe
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8.0.pdb
+C:\Users\anias\source\repos\DataAnalyzer8.0\DataAnalyzer8.0\obj\Debug\DataAnalyzer8._0.Histogram.resources
